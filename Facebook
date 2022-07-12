@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <meta name="description" content="Facebook profil">
+      <meta name="keywords" content="me, Ptuj, Familly, kurentovanje">
+      <meta name="author" content="Maja Matjasic">
+
+        <title>Maja Matjaic | Facebook</title>
+
+  <link rel="stylesheet" href="./style.css" type="text/css">
+
+    </head>
+
+    <body>
+        <h1><i>FACEBOOK PROFIL</i></h1>
+        Tvoje ime: <input type="text" placeholder="vpisi svoje ime">
+        <br>
+        <h2>Maja Matjasic </h2>
+
+
+
+
+     <img src ="Maja.jpg">
+
+
+
+
+
+        <br>
+        <br>
+        <br>
+        <li>
+        <br>
+        <p><strong>Mesto od kod prihajam: </strong>Ptuj</p>
+
+
+<a href="https://www.slovenia.info/sl/destinacije/regije/termalna-panonska-slovenija/ptuj">
+         <img alt="Ptuj.jpg" src="Ptuj.jpg"
+         width=250" height="100">
+
+
+        <li>
+        <li>
+        <a href="https://kurentovanje.net/">Povezava do mojiga najljubsega festivala</a >
+        <li>
+        <li>
+        <img src="kurent.jpg" alt="Kurent"
+        width="200"
+        height="300" />
+        <p class="starost"><strong>Starost:</strong> 33</p>
+        <p class="izobrazba"><strong>Izobrazba:</strong> Organizacija in management informacijskih sistemov</p>
+        <p class="rada"><strong>Rada..:</strong> ..sem z druzino</p>
+
+
+    </body>
+</html>
