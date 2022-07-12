@@ -1,0 +1,53 @@
+
+
+body {
+    background-color: #ed6f87;
+}
+
+h1 {color: red;}
+
+h2 {border-style: double;
+    border-color: blue ;
+border-width: thick;
+border-right: author;}
+
+
+#search {
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+#search:hover {
+    width: 500px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.starost strong{
+    font-family: fantasy;
+color: purple;
+}
+
+.izobrazba strong{
+    font-family: fantasy;
+color: purple;
+}
+
+
+.rada strong{
+    font-family: fantasy;
+color: purple;
+}
+
+.maja { color: blue;}
+
+img {
+  border: 6px black double;
+  color: pink;
+  padding: 5px;
+}
+
+img:hover {
+  border: 6px red solid;
+}
